@@ -19,6 +19,6 @@ Read the joblib file and load it into the memory. Then create a relevant prompt 
 
 If you don’t have access to premium LLM API keys, you can still retrieve the top 5 relevant videos and their timestamps using keywords.
 
-## 
+## Flow
 
- video_to_mp3.py --> mp3_to_json.py --> merge_chunks.py --> preprocess_json.py --> process_incoming.py
+video_to_mp3.py --> mp3_to_json.py --> merge_chunks.py --> preprocess_json.py --> process_incoming.py
